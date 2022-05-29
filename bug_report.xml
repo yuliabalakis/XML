@@ -1,5 +1,5 @@
 <bug_report>
-  <sammary>Не работает кнопка 'Войти' в форме авторизации после клика по ней</sammary>
+  <summary>Не работает кнопка 'Войти' в форме авторизации после клика по ней</sammary>
   <severity>Major</severity>
   <steps to reproduce>
                 1. Перейти на главную страницу
